@@ -1,1 +1,1 @@
-{"content-type":"application\/javascript","acl":{"read":"authenticated","write":"nobody","execute":"nobody"},"userConfig":"\/*#*SCRIPTR_PLUGIN*#*{\"metadata\":{\"name\":\"CodeMirrorArbitraryFile\",\"plugindata\":{}}}*#*#*\/"}
+{"content-type":"text\/css","acl":{"read":"authenticated","write":"nobody","execute":"nobody"},"userConfig":"\/*#*SCRIPTR_PLUGIN*#*{\"metadata\":{\"name\":\"CodeMirrorArbitraryFile\",\"plugindata\":{}}}*#*#*\/"}
