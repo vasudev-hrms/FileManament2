@@ -1,1 +1,1 @@
-{"content-type":"application\/vnd.scriptr-javascript","acl":{"read":"nobody","write":"nobody","execute":"authenticated"}}
+{"content-type":"myfile2","acl":{"read":"nobody","write":"nobody","execute":"authenticated"}}
